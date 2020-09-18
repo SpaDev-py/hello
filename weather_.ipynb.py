@@ -36,7 +36,7 @@ df[1:5:2]
 # In[13]:
 
 
-def df[0]
+#def df[0] just an error
 
 
 # In[15]:
